@@ -3,16 +3,16 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Welcome  to devops   </title>
+<title> Welcome  to devops chetan   </title>
 <style>
   body {
-    background-color:blue;
+    background-color:green;
   }
 </style>
 </head>
 <body>
-<h1>Welcome  to devops </h1>
-<p>Welcome  to devops.</p>
+<h1>Welcome  to devops chetan </h1>
+<p>Welcome  to devops chetan.</p>
 </body>
 </html>
 
