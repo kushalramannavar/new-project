@@ -6,7 +6,7 @@
 <title> Welcome  to devops chetan   </title>
 <style>
   body {
-    background-color:green;
+    background-color:red;
   }
 </style>
 </head>
