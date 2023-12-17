@@ -14,7 +14,7 @@ pipeline {
         stage('3rd step - deploy ') {
             steps { deploy adapters: [tomcat8(credentialsId: 'admin', path: '', url: 'http://13.201.48.186:8080//')], contextPath: null, war: '**/*.war'  }
         }
-         stage('2nd step - build') {
+         stage('4th step - build') {
             steps {
                 sh 'yum install maven -y '
                sh 'mvn clean package'  }
